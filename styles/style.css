@@ -109,10 +109,6 @@
   text-shadow: 4px 4px 0 var(--accent-color);
   line-height: 0.83em;
   text-transform: lowercase;
-  /* letter-spacing: -1px; */
-}
-
-.header__subtitle {
 }
 
 .title-decor {
@@ -143,9 +139,6 @@
 
 .section__subtitle {
   margin-block-end: 20px;
-}
-
-.section__article {
 }
 
 .section__article_title {
@@ -192,8 +185,8 @@
 }
 
 .footer {
-  block-size: 100vh;
   min-block-size: 690px;
+  block-size: 100vh;
   padding-block-start: 43px;
   display: grid;
 }
@@ -331,8 +324,8 @@
   }
 
   .footer {
-    block-size: 100vh;
     min-block-size: 1072px;
+    block-size: 100vh;
     padding-block-start: 80px;
     padding-block-end: 6px;
   }
@@ -432,8 +425,8 @@
   }
   
   .footer {
-    block-size: 100vh;
     min-block-size: 814px;
+    block-size: 100vh;
   }
 
   .footer__title {
